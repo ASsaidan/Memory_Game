@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF6347</color> <!-- Tomato color -->
+    <color name="colorPrimaryDark">#FFD700</color> <!-- Gold color -->
+    <color name="colorAccent">#ADD8E6</color> <!-- Light Blue color -->
+    //add black color
+    <color name="black">#000000</color>
+</resources>
