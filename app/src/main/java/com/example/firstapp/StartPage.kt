@@ -27,6 +27,7 @@ class StartActivity : AppCompatActivity() {
                     animator.start()
                 }
 
+
                 MotionEvent.ACTION_UP, MotionEvent.ACTION_CANCEL -> {
                     animator.cancel()
                 }
